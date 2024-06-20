@@ -50,3 +50,16 @@
     <li>Ctrl + N: Create New Submission</li>
     <li>Ctrl + V: View Submissions</li>
 </ul>
+
+<p>2. Create Form</p>
+<ul>
+    Create Form
+    <li>Ctrl + S: Submit form data</li>
+    <li>Ctrl + T: Toggle Stopwatch</li>
+</ul>
+
+<p>3. View Submissions Form</p>
+<ul>
+    <li>Ctrl + P: Previous Submission</li>
+    <li>Ctrl + N: Next Submission</li>
+</ul>
