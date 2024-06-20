@@ -3,7 +3,7 @@
 <h1 align="center">SlidelyAI Forms App</h1>
 
 <h2>Introduction</h2>
-
+<p1>This application provides a user-friendly interface for managing form submissions effectively. Developed using Visual Basic and integrated with a backend server built on Express and TypeScript, it ensures seamless data handling and retrieval.</p1>
 
 <!-- Features -->
 <h2>Features</h2>
