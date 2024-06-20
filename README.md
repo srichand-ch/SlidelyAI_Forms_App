@@ -44,4 +44,22 @@
 
 <!-- Keyboard shoetcuts-->
 <h2>Keyboard Shortcuts</h2>
+<ul>
+  <ul>
+    Main Form
+    <li>Ctrl + N: Create New Submission</li>
+    <li>Ctrl + V: View Submissions</li>
+  </ul>
 
+  <ul>
+    Create Form
+    <li>Ctrl + S: Submit form data</li>
+    <li>Ctrl + T: Toggle Stopwatch</li>
+  </ul>
+  
+  <ul>
+    View Submissions Form
+    <li>Ctrl + P: Previous Submission</li>
+    <li>Ctrl + N: Next Submission</li>
+  </ul>
+</ul>
