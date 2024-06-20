@@ -45,11 +45,9 @@
 <!-- Keyboard shoetcuts-->
 <h2>Keyboard Shortcuts</h2>
 <ul>
-  <ul>
-    Main Form
+    <p>Main Form</p>
     <li>Ctrl + N: Create New Submission</li>
     <li>Ctrl + V: View Submissions</li>
-  </ul>
 
   <ul>
     Create Form
