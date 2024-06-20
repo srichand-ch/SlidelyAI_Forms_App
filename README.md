@@ -17,8 +17,8 @@
 <!-- Prerequisites -->
 <h2>Prerequisites</h2>
 <ul>
-  <li><a href="https://nodejs.org/en/">Node.js</a></li>
-  <li><a href="https://www.npmjs.com/">npm</a></li>
+  <li>Visual Studio</a></li>
+  <li>.NET Framework</li>
 </ul>
 
 <!-- Installation -->
@@ -26,40 +26,22 @@
 
 <p>1. Clone the repository:</p>
 
-<pre><code>git clone https://github.com/srichand-ch/solana-airdrop.git</code></pre>
+<pre><code>git clone https://github.com/srichand-ch/SlidelyAI_Forms_App.git</code></pre>
 
-<p>2. Install dependencies:</p>
+<p>2. Open the project in Visual Studio</p>
 
-<pre><code>cd solana-airdrop
-npm install</code></pre>
+<p>3. Restore NuGet packages if needed.</p>
 
-<p>3. Run the application:</p>
+<p>4. Run the backend server <a href="http://localhost:3000">http://localhost:3000</a></p>
 
-<pre><code>npm start</code></pre>
+<p>5. Run the application:</p>
 
-<p>4. Navigate to <a href="http://localhost:3000">http://localhost:3000</a> in your browser to use the airdrop tool.</p>
 
 <!-- Usage -->
 <h2>Usage</h2>
 
-<p>To use the airdrop tool, enter a valid Solana address into the input field and click the "Airdrop" button. If the address is valid, the application will send 1 SOL to the address on Devnet and display the transaction hash.</p>
 
-<p>Note: This tool does not give real $SOL or Solana tokens. It is only for testing purposes on Devnet.</p>
 
-<!-- Code -->
-<h2>Code</h2>
-
-<p>The main component of this React application is the <code>SolAirdrop</code> component, which is located in <code>src/SolAirdrop.js</code>:</p>
-
- <h2>Issues</h2>
-  <p>If you have found a bug or have a feature request, please <a href="https://github.com/codescalper/solana-airdrop/issues">open an issue</a> on Github.</p>
-
-  <h2>Contributing</h2>
-  <p>Contributions are always welcome! If you want to contribute to this project, please follow these steps:</p>
-  <ol>
-    <li>Fork the repository</li>
-    <li>Make your changes</li>
-    <li>Test your changes</li>
-    <li>Submit a pull request</li>
-  </ol>
+<!-- Keyboard shoetcuts-->
+<h2>Keyboard Shortcuts</h2>
 
