@@ -4,7 +4,7 @@
 
 <h2>Introduction</h2>
 <p1>This application provides a user-friendly interface for managing form submissions effectively. Developed using Visual Basic and integrated with a backend server built on Express and TypeScript, it ensures seamless data handling and retrieval.</p1>
-<br><br><p1>Link for the backend code: <a href="https://github.com/srichand-ch/formsapp_backend">https://github.com/srichand-ch/formsapp_backend </p1>
+<br><br><p1>Link for the backend code: <a href="https://github.com/srichand-ch/formsapp_backend">https://github.com/srichand-ch/formsapp_backend </a></p1>
 
 <!-- Features -->
 <h2>Features</h2>
@@ -33,9 +33,9 @@
 
 <p>3. Restore NuGet packages if needed.</p>
 
-<p>4. Run the backend server <a href="http://localhost:3000">http://localhost:3000</a></p>
+<p>4. Run the backend server locally <a href="https://github.com/srichand-ch/formsapp_backend">https://github.com/srichand-ch/formsapp_backend </a></p>
 
-<p>5. Run the application:</p>
+<p>5. Run the application</p>
 
 
 
