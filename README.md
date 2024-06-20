@@ -53,7 +53,6 @@
 
 <p>2. Create Form</p>
 <ul>
-    Create Form
     <li>Ctrl + S: Submit form data</li>
     <li>Ctrl + T: Toggle Stopwatch</li>
 </ul>
