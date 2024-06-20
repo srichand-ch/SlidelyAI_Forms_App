@@ -37,8 +37,6 @@
 <p>5. Run the application:</p>
 
 
-<!-- Usage -->
-<h2>Usage</h2>
 
 
 
