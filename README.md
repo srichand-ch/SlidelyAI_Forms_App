@@ -2,8 +2,8 @@
 <!-- Title -->
 <h1 align="center">SlidelyAI Forms App</h1>
 
-<!-- Description -->
-<p align="center">This repository contains a simple React application that allows you to airdrop SOL to a given Solana address on Devnet.</p>
+<h2>Introduction</h2>
+
 
 <!-- Features -->
 <h2>Features</h2>
